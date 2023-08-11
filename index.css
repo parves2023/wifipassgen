@@ -29,6 +29,12 @@ input:focus-visible {
 }
 
 .box {
+    min-width: 400px;
+    padding: 30px;
+    box-shadow: 12px 12px 16px 0 rgb(0 119 104), -8px -8px 12px 0 rgb(14 215 193);
+    background: #13ab9a !important;
+    border-radius: 50px;
+    margin-top: 10px;
    
 }
 .card{
