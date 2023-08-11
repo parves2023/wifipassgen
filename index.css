@@ -27,6 +27,10 @@ input:focus-visible {
     font-size: large;
 
 }
+
+.box {
+   
+}
 .card{
     min-width: 400px;
     padding: 30px;
